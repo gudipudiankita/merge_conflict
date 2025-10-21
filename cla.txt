@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Girls
 Campus
 Hostel
 BEC
+=======
+IT
+CSE
+AIML
+ANKITA
+SARAYU
+>>>>>>> fb
